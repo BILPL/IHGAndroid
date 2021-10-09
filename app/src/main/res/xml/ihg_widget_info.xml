@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/ihg_widget"
+    android:initialLayout="@layout/ihg_widget"
+    android:minWidth="250dip"
+    android:minHeight="250dip"
+    android:minResizeWidth="144dip"
+    android:minResizeHeight="144dip"
+    android:previewImage="@drawable/widget_screen"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen|keyguard"></appwidget-provider>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Herald</string>
+    <string name="asset_statements">
+        [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://amp.indiaherald.com\"}
+        }]
+    </string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_string">Loading...</string>
+</resources>

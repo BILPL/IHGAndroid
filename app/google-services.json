@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853580336696",
+    "firebase_url": "https://sharb-157203.firebaseio.com",
+    "project_id": "sharb-157203",
+    "storage_bucket": "sharb-157203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853580336696:android:19b24b3889edeeab",
+        "android_client_info": {
+          "package_name": "com.indiaherald"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853580336696-roubg9rqgc12h1aqhkp90lfq35o5nvm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7KMKnQa-BXDe8qFrnjVQt3hbxrzkV1YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853580336696-roubg9rqgc12h1aqhkp90lfq35o5nvm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
